@@ -159,7 +159,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-	
+
 		text-decoration: none;
 	}
 
@@ -196,7 +196,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 4rem;
+		font-size: 2.5rem;
 		line-height: 1.1;
 		margin: 0 0 2rem 0;
 	}
@@ -3784,7 +3784,7 @@ input, select, textarea {
 	}
 
 		#main > * {
-			padding: 6rem 6rem 1rem 6rem;
+			padding: 4rem 6rem 4rem 6rem;
 		/*	border-top: solid 2px #eeeeee;*/
 			margin: 0;
 		}
@@ -3802,7 +3802,7 @@ input, select, textarea {
 		}
 
 		#main > .link {
-			padding: 3rem 6rem 3rem 6rem ;
+			padding: 1rem 6rem 3rem 6rem ;
 		}
 
 			#main > .post header.major > .date {
@@ -3880,13 +3880,13 @@ input, select, textarea {
 			}
 
 			#main > .posts > * {
-				padding: 4rem;
+				padding: 0rem 2rem 0rem 2rem;
 				width: 50%;
 			}
 
 			#main > .posts > article {
 				border-color: #eeeeee;
-				border-left-width: 2px;
+
 				border-style: solid;
 				border-top-width: 2px;
 				text-align: center;
